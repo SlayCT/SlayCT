@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Cicera! 👋
 
-<!--
-**SlayCT/SlayCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Where creativity meets technology. 🎨💻
 
-Here are some ideas to get you started:
+I'm a Software Development student passionate about combining
+technology, creativity and digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+Java • C# • PHP • SQL • HTML • CSS • Git/GitHub
+
+🎨 Also interested in:
+Digital Design • Social Media • Content Creation
+
+🚀 Currently:
+- Studying Software Development at Fatec
+- Building academic and personal projects
+- Exploring Web Development and Front-End
+- Learning and improving every day
+
+## 🎨 Beyond Code
+
+I also work with digital design, social media and creative projects.
+I enjoy exploring the intersection between technology and visual
+communication.
+
+## 📫 Let's connect
+
+[LinkedIn] [Instagram] [GitHub]
+
+---
+
+✨ Where creativity meets technology.
