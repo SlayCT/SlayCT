@@ -1,6 +1,6 @@
 # Hi, I'm Cicera! 👋
 
-### Where creativity meets technology. 🎨💻
+### Where creativity meets technology 🎨💻
 
 I'm a Software Development student passionate about combining
 technology, creativity and digital experiences.
@@ -25,7 +25,7 @@ communication.
 
 ## 📫 Let's connect
 
-[LinkedIn] [Instagram] [GitHub]
+[💼 LinkedIn](https://www.linkedin.com/in/cicerathais/) • [📸 Instagram Creator](https://www.instagram.com/slayct/) • [🌷 Instagram — Personal](https://www.instagram.com/cicii.img/)
 
 ---
 
